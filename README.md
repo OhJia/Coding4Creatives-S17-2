@@ -27,11 +27,11 @@ Grades will be determined according to the following breakdowns:
 
 ## Resources
 
-[All resources](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/All-assignment-resources)
+[All resources](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/All-resources)
 
 
 ## Week by week 
-* [Rough Syllabus](https://docs.google.com/document/d/1U7tTW_z7fVXYVQVSDG3UrJX1shgcSebHCIgisDC7y2Q/edit#heading=h.gqa5xmiv0doz)
+* [Rough Syllabus](https://docs.google.com/document/d/1U7tTW_z7fVXYVQVSDG3UrJX1shgcSebHCIgisDC7y2Q)
 
 ### Week 1 (4/4)
 * Introductions
