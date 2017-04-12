@@ -55,10 +55,48 @@ Grades will be determined according to the following breakdowns:
 ***
 
 ### Week 2 (4/11)
+* Reviews
+  * Terminal commands
+  * HTML/CSS Q&A
+  * Class links & tools
+* Reading discussion
+* Go over assignments & in class workshop
+* More on the internet
+  * Networks
+    * HTTP/DNS
+    * TCP/IP
+    * Security 
+* Web development overview
+  * Front end vs. back end development
+  * Local vs. cloud hosting/services
+* Working with developers
+  * Phases: dev, staging, live
+  * What is open source code
+* Guest speaker
+
+
+[Week 2 slides](https://docs.google.com/presentation/d/1nMcc0kK0bJq8b5JwSF0w61FGuoMZPssyLd8zDOX0O0Y)
+/ [Week 2 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-2-Assignment)
+
 
 ***
 
 ### Week 3 (4/18)
+* Assignment review 
+  * HTML/CSS review
+* Reading discussion
+* Creative browser experiments
+  * [Chrome Experiments](https://www.chromeexperiments.com/)
+  * [Codedoodles](http://codedoodl.es/)
+  * Creative coding JavaScript libraries
+    * [p5.js](http://p5js.org/)
+    * [three.js](https://threejs.org/)
+    * [paper.js](http://paperjs.org/)
+* What is Document Object Model (Q&As)
+* More CSS & introduction to Bootstrap (CSS)
+  * [Bootstrap CSS example code](https://github.com/OhJia/Coding4Creatives-S17/tree/master/Example_bootstrapcss)
+* Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
+
 
 ***
 
