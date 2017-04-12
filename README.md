@@ -76,7 +76,7 @@ Grades will be determined according to the following breakdowns:
 
 
 [Week 2 slides](https://docs.google.com/presentation/d/1nMcc0kK0bJq8b5JwSF0w61FGuoMZPssyLd8zDOX0O0Y)
-/ [Week 2 Assignment](https://github.com/OhJia/Coding4Creatives-S17/wiki/Week-2-Assignment)
+/ [Week 2 Assignment](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Week-2-Assignment)
 
 
 ***
