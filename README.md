@@ -81,10 +81,16 @@ Grades will be determined according to the following breakdowns:
 
 ***
 
-### Week 3 (4/18)
-* Assignment review 
+### Week 4 (4/26)
+* Reviews
+  * Assignments
   * HTML/CSS review
+  * Internet
 * Reading discussion
+* What is Document Object Model (Q&As)
+* More CSS & introduction to Bootstrap (CSS)
+  * [Bootstrap CSS example code](https://github.com/OhJia/Coding4Creatives-S17/tree/master/Example_bootstrapcss)
+* Using developer tool
 * Creative browser experiments
   * [Chrome Experiments](https://www.chromeexperiments.com/)
   * [Codedoodles](http://codedoodl.es/)
@@ -92,15 +98,10 @@ Grades will be determined according to the following breakdowns:
     * [p5.js](http://p5js.org/)
     * [three.js](https://threejs.org/)
     * [paper.js](http://paperjs.org/)
-* What is Document Object Model (Q&As)
-* More CSS & introduction to Bootstrap (CSS)
-  * [Bootstrap CSS example code](https://github.com/OhJia/Coding4Creatives-S17/tree/master/Example_bootstrapcss)
-* Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
+* In class workshop: using p5.js
+* Make up class schedule
 
-
-***
-
-### Week 4 (4/25)
+[Week 4 slides](https://docs.google.com/presentation/d/1d12hktYYoDBU1SPyqgEXutJ94S10nS_PYNoeWFCXZSU)
 
 ***
 
