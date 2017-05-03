@@ -129,6 +129,15 @@ Grades will be determined according to the following breakdowns:
   * events: mousePressed()
 * Assign groups for presentation (starting Week 6)
 
-[Week 5 slides](https://docs.google.com/presentation/d/1lB_bxZMmpoLu8L63q9ePvfTj9twp4Vx4ODpgHPdJFi8/)
+[Week 5 slides](https://docs.google.com/presentation/d/1lB_bxZMmpoLu8L63q9ePvfTj9twp4Vx4ODpgHPdJFi8/) / [Week 5 Assignment](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Week-5-Assignment): _Start early! It'll take time to get through the tutorial videos and the coding assignment._
 
 ***
+
+### Make up class (5/6)
+* In class workshop
+* Q&As
+* One-on-ones: final project, debugging, etc. 
+
+***
+
+### Week 6 (5/10)
