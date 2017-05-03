@@ -101,10 +101,34 @@ Grades will be determined according to the following breakdowns:
 * In class workshop: using p5.js
 * Make up class schedule
 
-[Week 4 slides](https://docs.google.com/presentation/d/1d12hktYYoDBU1SPyqgEXutJ94S10nS_PYNoeWFCXZSU)
+[Week 4 slides](https://docs.google.com/presentation/d/1d12hktYYoDBU1SPyqgEXutJ94S10nS_PYNoeWFCXZSU) / [Week 4 Assignment](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Week-4-Assignment)
 
 ***
 
 ### Week 5 (5/2)
+* reviews
+  * assignment
+  * developer tool
+  * JS libraries
+* What is an algorithm
+  * Class exercise: break a problem into a set of instructions
+  * Fundamentals of programming
+* Introduction to JavaScript
+  * Brief introduction to programming languages
+  * Syntax
+  * JS Syntax
+  * Evolution of JavaScript: front end to back end
+  * Front end JavaScript
+  * Examples
+* Introduction to p5.js
+  * What is JS library
+  * What is canvas
+  * p5.js examples and p5.js mobile examples
+  * intro to variables, functions, and JS objects
+  * setup() and draw() (flow)
+  * events: mousePressed()
+* Assign groups for presentation (starting Week 6)
+
+[Week 5 slides](https://docs.google.com/presentation/d/1lB_bxZMmpoLu8L63q9ePvfTj9twp4Vx4ODpgHPdJFi8/)
 
 ***
