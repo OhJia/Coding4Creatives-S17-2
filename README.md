@@ -141,3 +141,16 @@ Grades will be determined according to the following breakdowns:
 ***
 
 ### Week 6 (5/10)
+* Assignment review
+* Programming concepts (using p5.js)
+  * Review (Q&A)
+  * Booleans
+  * Conditionals
+  * Arrays
+  * Object oriented programming overview
+  * Objects
+  * Classes
+  * Constructors
+* Talk about [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project) 
+
+[Week 6 slides](https://docs.google.com/presentation/d/1_z_XW3HswIbcXFGWqUGBgavEd1v44Nvaw-5h65ZrIls) / [Week 6 Assignment](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Week-6-Assignment): _Start early! It'll take time to get through the tutorial videos and the coding assignment._
