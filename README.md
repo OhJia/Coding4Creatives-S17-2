@@ -147,10 +147,24 @@ Grades will be determined according to the following breakdowns:
   * Booleans
   * Conditionals
   * Arrays
+* Talk about [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project) 
+
+[Week 6 slides](https://docs.google.com/presentation/d/1_z_XW3HswIbcXFGWqUGBgavEd1v44Nvaw-5h65ZrIls) / [Week 6 Assignment](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Week-6-Assignment): _Start early! It'll take time to get through the tutorial videos and the coding assignment._
+
+***
+
+### Week 7 (5/16)
+* Group presentation: mobile & sensor
+* Show final project ideas
+* Assignment review
+* Programming concepts (using p5.js)
+  * Review (Q&A): Loops, Arrays
   * Object oriented programming overview
   * Objects
   * Classes
   * Constructors
-* Talk about [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project) 
 
-[Week 6 slides](https://docs.google.com/presentation/d/1_z_XW3HswIbcXFGWqUGBgavEd1v44Nvaw-5h65ZrIls) / [Week 6 Assignment](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Week-6-Assignment): _Start early! It'll take time to get through the tutorial videos and the coding assignment._
+[Week 7 slides](https://docs.google.com/presentation/d/1Iz59vXqjcdsYDPIgh5IgpUcUHtkzUwKj09WdjdfZ2OY) / Start working on [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project). Present progress (updated sketches/mockups and code) next week.
+
+
+
