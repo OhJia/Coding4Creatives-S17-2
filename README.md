@@ -153,7 +153,7 @@ Grades will be determined according to the following breakdowns:
 
 ***
 
-### Week 7 (5/16)
+### Week 7 (5/17)
 * Group presentation: mobile & sensor
 * Show final project ideas
 * Assignment review
