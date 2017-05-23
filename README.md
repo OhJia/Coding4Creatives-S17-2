@@ -166,5 +166,34 @@ Grades will be determined according to the following breakdowns:
 
 [Week 7 slides](https://docs.google.com/presentation/d/1Iz59vXqjcdsYDPIgh5IgpUcUHtkzUwKj09WdjdfZ2OY) / Start working on [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project). Present progress (updated sketches/mockups and code) next week.
 
+***
+
+### Week 8 (5/24)
+* Object oriented programming review
+* Group presentation: virtual reality & augmented reality
+* Present final project mockups/sketches/storyboards
+* In class work session
+  * final project one-on-ones
+* Hololens & Cardboard demos
+  
+Working on [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project). Present progress (working prototype) next week.
+
+***
+
+### Week 9 (5/31)
+* Group presentation
+* Present final project progress or final (Gian & Hortense)
+* In class work session
+  * final project one-on-ones
+
+  
+Working on [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project). Present progress (working prototype) next week.
+
+***
+
+### Week 10 (6/7)
+* Final project presentations
+
+
 
 
