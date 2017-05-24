@@ -192,6 +192,7 @@ Working on [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/
 ***
 
 ### Week 10 (6/7)
+* Guest speaker
 * Final project presentations
 
 
