@@ -186,10 +186,11 @@ Working on [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/
 * Group presentation
 * Present final project progress or final (Gian & Hortense)
 * In class work session
+  * Hosting with [Github pages](https://pages.github.com/)
   * final project one-on-ones
 
   
-Working on [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project). Present progress (working prototype) next week.
+Working on [final project](https://github.com/OhJia/Coding4Creatives-S17-2/wiki/Final-project). Present finals next week.
 
 ***
 
