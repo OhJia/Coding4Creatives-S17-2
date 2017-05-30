@@ -8,7 +8,7 @@
 
 A 10 week course introducing students to basic coding skills and how to work with coders within an advertising agency or organization.
 
-Try examples: (https://ohjia.github.io/Coding4Creatives-S17-2/)
+Try examples: https://ohjia.github.io/Coding4Creatives-S17-2/
 
 ## Info
 * Instructor: Jiashan Wu. Email: hello@fromjia.com
