@@ -12,6 +12,8 @@ myRec.interimResults = true; // allow partial recognition (faster, less accurate
 var x, y;
 var dx, dy;
 
+//var tree;
+
 function setup(){
 	// graphics stuff:
 	createCanvas(800, 600);
@@ -32,7 +34,13 @@ function setup(){
 }
 
 function draw(){
+	background(255, 255, 255);
+
 	ellipse(x, y, 5, 5);
+	//image(car, x, y);
+	//rotate(PI/3.0);
+
+	//image(tree, 200, 300);
 	x+=dx;
 	y+=dy;
 	if(x<0) x = width;
